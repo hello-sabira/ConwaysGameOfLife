@@ -1,0 +1,3 @@
+# ConwaysGameOfLife
+A very simple (and a bit colorful) implementation of Conway's game of life in Java. </br>
+More info to be added soon...
