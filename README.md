@@ -15,4 +15,8 @@ The state of a given cell in any generation depends on the state of the cell and
 2. You can download the JAR file and just double click, sit back and enjoy the view. 
 </br>
 In either case, it will look something like this:</br>
-More info to be added
+</br>
+
+https://user-images.githubusercontent.com/97904428/151648437-0663f065-cc0c-4a37-87c7-5c2c3034134f.mp4
+
+Kinda cool, right? Let me know if you've got better ways to implement this. Happy coding!
